@@ -1,10 +1,10 @@
 # Project Structure 
 
-cad-viewer/
-├── backend/
-│   └── app.py
-└── frontend/
-    └── (React app created with Create React App)
+# cad-viewer/
+  ├── backend/
+  │     └── app.py
+  └── frontend/
+        └── (React app created with Create React App)
 
 
 # Getting Started with Create React App
