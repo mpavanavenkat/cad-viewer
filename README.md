@@ -1,6 +1,6 @@
-# Project Structure 
+## 📂 Project Structure
 
-# cad-viewer/
+  cad-viewer/
   ├── backend/
   │     └── app.py
   └── frontend/
